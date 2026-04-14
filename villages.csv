@@ -1,0 +1,9 @@
+district,village,latitude,longitude,risk
+Alappuzha,Alappuzha Town,9.498,76.338,low
+Alappuzha,Cherthala,9.686,76.336,medium
+Alappuzha,Ambalappuzha,9.385,76.355,low
+Alappuzha,Haripad,9.282,76.467,high
+Alappuzha,Kuttanad,9.360,76.420,medium
+Krishna,VillageA,16.5,80.6,low
+Krishna,VillageB,16.6,80.7,medium
+Guntur,VillageC,16.3,80.4,high
